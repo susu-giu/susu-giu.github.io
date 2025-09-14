@@ -1,6 +1,6 @@
 
 
-[![Liya Ren](https://img.shields.io/badge/susu-giu-github-blue?logo=github)](https://github.com/susu-giu)
+[![Liya Ren](https://img.shields.io/badge/Liya%20Ren-github-blue?logo=github)](https://github.com/susu-giu)
 
 She is currently studying in the Advertising Department of the School of Journalism and Communication at Nanjing University.
 
