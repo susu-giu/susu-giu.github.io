@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/susu-giu/susu-giu.github.io)
 ![Last Commit](https://img.shields.io/github/last-commit/susu-giu/susu-giu.github.io)
 
-# LY R's Personal Website.
+# Liya Ren's Personal Website.
 
 ## Preview
 [![南大背景图](https://github.com/susu-giu/susu-giu.github.io/blob/main/南大背景图.jpeg?raw=true)](https://susu-giu.github.io/)
@@ -60,10 +60,10 @@ git push
 
 ### 3. Enjoy
 
-Fire up a browser and go to `https://<username>.github.io`
+Open a browser and go to `https://susu-giu.github.io/`
 
 
 
 ## License
 
-Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
+Copyright Liya Ren, 2023-2027. Licensed under an MIT license.
